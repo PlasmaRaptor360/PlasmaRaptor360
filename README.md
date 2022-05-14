@@ -1,4 +1,4 @@
-I’m @PlasmaRaptor360. I am student interested in Robotics, Electrical Engineering, and Computer Programming. I hope that I can use technology to help society in the future.
+I’m @PlasmaRaptor360. I am a student interested in Robotics, Electrical Engineering, and Computer Programming. I hope that I can use technology to help society in the future.
 
 ## Engineering Skills
 - Soldering
@@ -9,7 +9,6 @@ I’m @PlasmaRaptor360. I am student interested in Robotics, Electrical Engineer
 ## Computer Programming Skills
 ### Languages
 - Python
-- Java
 - C++
 ### Technologies
 - Raspberry Pi
