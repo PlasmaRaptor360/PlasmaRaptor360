@@ -12,6 +12,7 @@ I’m @PlasmaRaptor360. I am a student interested in Robotics, Electrical Engine
 - C++
 - R
 - Java
+- Micropython
 ### Technologies
 - Raspberry Pi
   - Mesh networking
@@ -20,6 +21,7 @@ I’m @PlasmaRaptor360. I am a student interested in Robotics, Electrical Engine
   - GPIO  
 - Arduino
 - ESP-32
+- Raspberry Pi Pico W
 - Linux
 - SSH
 - Git
