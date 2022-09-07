@@ -10,6 +10,8 @@ I’m @PlasmaRaptor360. I am a student interested in Robotics, Electrical Engine
 ### Languages
 - Python
 - C++
+- R
+- Java
 ### Technologies
 - Raspberry Pi
   - Mesh networking
